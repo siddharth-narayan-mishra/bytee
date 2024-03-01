@@ -77,7 +77,7 @@ function Home() {
             <NavLink to="/" id='mobile-logout' className="inactive" activeclassname="active">log out</NavLink>
           </div>
       </div>
-    </div>
+    </div>-
 
     <div className="horizontal">
     <div className="scroller" data-animated="true">
